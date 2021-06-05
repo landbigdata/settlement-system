@@ -1,5 +1,5 @@
 
-This dataset is hosted in GitHub: https://github.com/landbigdata/settlement-system
+This dataset is hosted on GitHub: https://github.com/landbigdata/settlement-system
 
 For ANY publications using our data, you are knidly requested to cite the article below: 
      - Li, M., van Vliet, J., Ke, X., & Verburg, P. H. (2019). Mapping settlement systems in China and their change trajectories between 1990 and 2010. Habitat International, 94, 102069. https://doi.org/10.1016/j.habitatint.2019.102069	
